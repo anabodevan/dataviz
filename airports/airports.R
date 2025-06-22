@@ -65,5 +65,5 @@ p <- airports_connexions %>%
 
 p
 
-ggsave("aeroportosbr.png", p, width = 9.5, height = 10.5, dpi = 300)
+ggsave("aeroportosbr.png", p, width = 7, height = 5, dpi = 300)
 
